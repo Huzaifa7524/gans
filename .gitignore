@@ -1,0 +1,6 @@
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebooks
+*.ipynb
