@@ -71,7 +71,7 @@ def make_post_request_video(combined_image_name, audio_file_name, filename_slug,
 
 # Input fields and button to make POST request
 # Dropdowns for avatar and background images
-avatar_images = ["man.png", "woman_5.png", "woman_3"]
+avatar_images = ["man.png", "woman_1.png", "woman_2.png","woman_3.png","woman_4.png"]
 background_images = ["bg1.png", "bg2.png", "bg4.png",'bg5.png']
 
 avatar_image = st.selectbox("Select Avatar Image", avatar_images)
